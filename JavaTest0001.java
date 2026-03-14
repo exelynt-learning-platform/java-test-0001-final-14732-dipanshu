@@ -1,3 +1,4 @@
+
 public class JavaTest0001 {
 
     public static void main(String[] args) {
@@ -8,7 +9,7 @@ public class JavaTest0001 {
                 System.out.print(" ");
             }
 
-            System.out.print("*");
+            System.out.print("*"); 
 
             if (i > 1) {
                 for (int space = 1; space <= (2 * i - 3); space++) {
